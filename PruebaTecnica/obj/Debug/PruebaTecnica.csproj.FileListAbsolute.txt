@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\PruebaTecnica\PruebaTecnica\bin\Debug\PruebaTecnica.exe.config
+C:\Users\Admin\source\repos\PruebaTecnica\PruebaTecnica\bin\Debug\PruebaTecnica.exe
+C:\Users\Admin\source\repos\PruebaTecnica\PruebaTecnica\bin\Debug\PruebaTecnica.pdb
+C:\Users\Admin\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\PruebaTecnica.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\PruebaTecnica.exe
+C:\Users\Admin\source\repos\PruebaTecnica\PruebaTecnica\obj\Debug\PruebaTecnica.pdb
