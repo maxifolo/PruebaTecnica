@@ -65,7 +65,7 @@ namespace PruebaTecnica
                     result = $"{num / num2}";
                     return (den / num2 == 1) ? result : String.Concat(result, $"/{den / num2}");
                 }
-                else return "No se pudo convertir los valores";
+                else return "Error al convertir los valores";
             }
             else return "Formato no valido";
         }
