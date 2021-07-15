@@ -11,11 +11,13 @@ namespace PruebaTecnica
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ingresar la fraccion : ");
+            //pedimos los datos al usuario
+            Console.WriteLine("Ingresar la fraccion: ");
             var fraction = Console.ReadLine();
             string resultado = simplificar(fraction);
             Console.WriteLine(resultado);
             Console.ReadKey();
+            //pedimos los datos al usuario
             Console.WriteLine("Ingresar el nombre : ");
             var nombre = Console.ReadLine();
             Console.WriteLine(validarNombre(nombre).ToString());
