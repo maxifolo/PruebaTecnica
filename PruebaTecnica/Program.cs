@@ -40,10 +40,10 @@ namespace PruebaTecnica
 
         private static string simplificar(string fraction)
         {
-
+            
             const string expre = @"[0-9]{1,3}\/[0-9]{1,3}";
             int num, den, res;
-
+            //comprobammos que nos esten enviando el fromato correcto de una fraccion
             if (Regex.IsMatch(fraction, expre))
             {
                 string[] values = fraction.Split('/');
