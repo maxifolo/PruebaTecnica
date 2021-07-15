@@ -47,7 +47,7 @@ namespace PruebaTecnica
             if (Regex.IsMatch(fraction, expre))
             {
                 string[] values = fraction.Split('/');
-
+                //evaluo si se puede leer correctamente los valores
                 if (int.TryParse(values[0], out num) && int.TryParse(values[1], out den))
                 {
                     var num2 = num;
